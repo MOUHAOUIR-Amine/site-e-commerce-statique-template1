@@ -1,0 +1,2 @@
+L’objectif principal de ce travail consiste à concevoir le design d’une application web statique. 
+Cette application permet aux internautes de consulter les produits et les services de la société cliente afin de trouver le produit adéquat pour l’acheter.
